@@ -1,3 +1,5 @@
+[![Docker Pulls](https://badgen.net/docker/pulls/noenv/openstack-cli)](https://hub.docker.com/r/noenv/openstack-cli)
+
 ## docker-openstack-cli
 
 #### Description
